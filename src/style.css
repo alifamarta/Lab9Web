@@ -1,0 +1,50 @@
+/* Font import */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400");
+
+body {
+    font-size: 100%;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+}
+
+.container {
+    width: 980px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px #ccc;
+}
+
+header {
+    padding: 20px;
+}
+
+header h1 {
+    margin: 20px 10px;
+    color: #b5b5b5;
+}
+
+/* Navbar  */
+nav {
+    display: block;
+    background: #ff0000;
+}
+
+nav a {
+    padding: 15px 3em;
+    display: inline-block;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a.active,
+nav a:hover {
+    background-color: #dd0202;
+}
+
+footer {
+    clear: both;
+    background-color: #1d1d1d;
+    padding: 5px;
+    color: #eee;
+}
