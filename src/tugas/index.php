@@ -1,8 +1,6 @@
 <?php include('config/index.php') ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <?php include('layout/head.php') ?>
+
+<?php include('layout/head.php') ?>
     <title>Data Barang</title>
 </head>
 
