@@ -1,3 +1,5 @@
+    <title>Tambah Barang</title>
+</head> 
 <body>
     <div class="container">
         <h1>Tambah Barang</h1>
